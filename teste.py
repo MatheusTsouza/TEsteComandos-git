@@ -2,6 +2,7 @@ valoresPares = [a for a in range(0,10) if a%2 == 0]
 
 
 print("conflito merge")
+print("Teste")
 
 
 print("luan")
